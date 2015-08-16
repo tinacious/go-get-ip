@@ -1,0 +1,16 @@
+{
+	"ImportPath": "get_ip",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "github.com/BurntSushi/toml",
+			"Comment": "v0.1.0-21-g056c9bc",
+			"Rev": "056c9bc7be7190eaa7715723883caffa5f8fa3e4"
+		},
+		{
+			"ImportPath": "github.com/keighl/mandrill",
+			"Comment": "1.0.0-14-g5d7133f",
+			"Rev": "5d7133fb578a9504f8ab549737c993422f65a000"
+		}
+	]
+}

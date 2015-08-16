@@ -1,0 +1,5 @@
+# Sets required Heroku environment variables
+
+heroku config:set MANDRILL=
+heroku config:set EMAIL=
+heroku config:set REDIRECT=
