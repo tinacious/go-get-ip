@@ -4,6 +4,8 @@ A tiny app that gets the visitor's IP address and redirects them to a specified 
 
 Works with Heroku.
 
+![Screenshot of email](go_get_ip_screenshot.png)
+
 ## Usage
 
 ### Running in development
